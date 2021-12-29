@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="03db4957-dce5-4166-945f-adcfd994953a">
+    <jcr:content
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2021-12-22T15:34:45.287+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2021-12-22T15:34:44.358+05:30"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}144"
+            dam:Physicalheightininches="{Decimal}0.75"
+            dam:Physicalwidthindpi="{Long}144"
+            dam:Physicalwidthininches="{Decimal}0.75"
+            dam:Progressive="no"
+            dam:sha1="72457d3fa962fa9a871fc95328b35cbcc8eef6f7"
+            dam:size="{Long}6766"
+            dc:format="image/jpeg"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}108"
+            tiff:ImageWidth="{Long}108"
+            tiff:Orientation="{Long}1"
+            xmp:CreatorTool="Adobe Photoshop CC 2014 Macintosh"
+            xmpMM:DocumentID="xmp.did:CA9D6D84501C11E68ABB8F32994B2883"
+            xmpMM:InstanceID="xmp.iid:CA9D6D83501C11E68ABB8F32994B2883">
+            <xmpMM:DerivedFrom
+                jcr:primaryType="nt:unstructured"
+                stRef:documentID="xmp.did:CA9D6D82501C11E68ABB8F32994B2883"
+                stRef:instanceID="xmp.iid:CA9D6D81501C11E68ABB8F32994B2883"
+                xmpNodeType="xmpStruct"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+        <usages
+            dam:score="{Long}1"
+            jcr:primaryType="nt:unstructured"
+            usedBy="[aem]">
+            <aem
+                jcr:primaryType="nt:unstructured"
+                count="{Long}1"
+                lastUsed="{Date}2021-12-23T09:46:39.773+05:30"/>
+        </usages>
+    </jcr:content>
+</jcr:root>

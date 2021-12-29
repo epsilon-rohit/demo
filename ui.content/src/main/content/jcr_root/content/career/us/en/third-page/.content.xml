@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2021-12-28T10:34:46.104+05:30"
+        cq:lastModifiedBy="admin"
+        cq:template="/conf/qwerty!/settings/wcm/templates/iiiiiii"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="third page"
+        sling:resourceType="wcm/foundation/components/page">
+        <root
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="wcm/foundation/components/responsivegrid">
+            <responsivegrid
+                jcr:created="{Date}2021-12-27T18:04:22.326+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2021-12-27T18:04:31.800+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="wcm/foundation/components/responsivegrid">
+                <herimage
+                    jcr:created="{Date}2021-12-28T10:33:22.712+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-12-28T10:33:22.712+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="career/components/content/Herimage"/>
+                <a1
+                    jcr:created="{Date}2021-12-28T10:33:28.071+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-12-28T10:33:28.071+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="career/components/content/a1"/>
+                <development_in_the_g
+                    jcr:created="{Date}2021-12-28T10:34:09.339+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-12-28T10:34:09.339+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="career/components/content/development in the groupe"/>
+                <circle
+                    jcr:created="{Date}2021-12-28T10:34:18.180+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-12-28T10:34:18.180+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="career/components/content/circle">
+                    <cq:responsive jcr:primaryType="nt:unstructured">
+                        <default
+                            jcr:primaryType="nt:unstructured"
+                            offset="0"
+                            width="12"/>
+                    </cq:responsive>
+                </circle>
+                <toolstosucceed
+                    jcr:created="{Date}2021-12-28T10:34:46.099+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-12-28T10:34:46.099+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="career/components/content/toolstosucceed"/>
+            </responsivegrid>
+        </root>
+    </jcr:content>
+</jcr:root>
